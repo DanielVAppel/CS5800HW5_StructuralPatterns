@@ -5,16 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edaf5f11-11f3-4b56-80b1-c79c4785a1aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CS5800/Bacon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CS5800/Bacon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CS5800/BaseFoodItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CS5800/BaseFoodItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CS5800/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CS5800/Cheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CS5800/FoodItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CS5800/FoodItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CS5800/LoyaltyDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CS5800/LoyaltyDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CS5800/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CS5800/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CS5800/RestaurantDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CS5800/RestaurantDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/CS5800/ToppingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/CS5800/ToppingDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FoodItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FoodItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoyaltyDiscountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoyaltyDiscountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrderTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "DanielVAppel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DanielVAppel/CS5800HW5_StructuralPatterns.git",
+    "accountId": "812aa017-5891-4984-9663-c40efa009455"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -26,13 +58,58 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.RestaurantDriver.executor": "Run",
+    "JUnit.FoodItemTest.executor": "Run",
+    "JUnit.LoyaltyDiscountTest.executor": "Run",
+    "JUnit.OrderTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.OrderTest">
+    <configuration name="FoodItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS5800HW5_StructuralPatterns" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoodItemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoyaltyDiscountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS5800HW5_StructuralPatterns" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoyaltyDiscountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CS5800HW5_StructuralPatterns" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderTest" />
+        <item itemvalue="JUnit.LoyaltyDiscountTest" />
+        <item itemvalue="JUnit.FoodItemTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730614400508</updated>
-      <workItem from="1730614401418" duration="2000" />
+      <workItem from="1730614401418" duration="2330000" />
     </task>
     <servers />
   </component>
